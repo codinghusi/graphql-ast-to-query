@@ -1,0 +1,17 @@
+{
+  "name": "graphql-ast-to-query",
+  "version": "0.1.0",
+  "description": "Converts an ast back to a query",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [ "graphql", "ast", "modification" ],
+  "author": "Gerrit Weiermann",
+  "license": "ISC",
+  "devDependencies": {
+    "graphql": "^15.5.0",
+    "typescript": "^4.2.3"
+  }
+}
