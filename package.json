@@ -1,7 +1,8 @@
 {
   "name": "graphql-ast-to-query",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts an ast back to a query",
+  "homepage": "https://github.com/codinghusi/graphql-ast-to-query",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
